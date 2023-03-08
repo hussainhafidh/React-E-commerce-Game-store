@@ -1,0 +1,28 @@
+.navbar {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    text-align: center;
+   
+    background-color: rgb(214, 174, 93);
+    
+}
+
+.logo-name{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(52, 52, 84);
+    margin-top: 20px;
+   
+   
+}
+
+/* .fa  fa-shopping-cart{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(57, 57, 78);
+    margin-top: 20px;
+
+} */
